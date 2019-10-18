@@ -11,3 +11,4 @@
 <p>&nbsp;&nbsp;  * 63.72.55.156	2019-10-15 00:36:16	"GET /class/130.html HTTP/1.1"	404	-</p>
 <p>&nbsp;&nbsp;  * 98.63.187.167	2019-10-15 00:36:16	"GET /learn/821 HTTP/1.1"	200	https://www.sogou.com/web?query=Hadoop基础</p>
 <p>&nbsp;&nbsp;  */</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外，为了使代码容易管理，借鉴了MVC的设计模式，在工程代码使用了DAO、Model层，Scala编写为主，Java辅助</p>
